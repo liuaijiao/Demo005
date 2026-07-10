@@ -12,7 +12,7 @@ end forward
 
 global type genapp from application
 string appname = "genapp"
-string appruntimeversion = "25.2.0.7088"
+string appruntimeversion = "25.2.0.7089"
 end type
 global genapp genapp
 
